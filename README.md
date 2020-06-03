@@ -1,2 +1,1 @@
-# Git_course
-learning Git
+welcome to learn git
