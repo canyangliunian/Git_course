@@ -1,0 +1,4 @@
+i am master,ilove git
+i love python
+i love zhiliao
+本地master分支，关联远程master分支
